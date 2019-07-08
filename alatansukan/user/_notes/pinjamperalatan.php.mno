@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:idpinjaman;datatype:int,name:nokppeminjam;datatype:string,name:kodperalatan;datatype:string,name:tujuanpinjaman;datatype:string,name:kuantitipinjam;datatype:int,name:tarikhpinjam;datatype:date" />
+	<infoitem key="UD_Recordset2" value="name:nokppeminjam;datatype:string,name:namapeminjam;datatype:string,name:notelpeminjam;datatype:string,name:gambar;datatype:blob,name:idkategoripeminjam;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:kodperalatan;datatype:string,name:namaperalatan;datatype:string,name:jenamaperalatan;datatype:string,name:bilanganstok;datatype:string" />
+</info>
